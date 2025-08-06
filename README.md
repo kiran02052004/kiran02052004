@@ -48,10 +48,10 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiran02052004&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiran02052004&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-</p>
+<br/>
+  <a href="https://github.com/kiran02052004/github-readme-stats"><img alt="Kiran Patil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kiran02052004&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/kiran02052004/github-readme-stats"><img align="right" alt="Kiran Patil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiran02052004&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
 ---
 
