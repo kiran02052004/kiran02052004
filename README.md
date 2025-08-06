@@ -1,86 +1,72 @@
+<p align="center">
+  <img src="https://github.com/kiran02052004/kiran02052004/blob/main/abc.gif" alt="logo" />
+</p>
 
-![logo](https://github.com/kiran02052004/kiran02052004/blob/main/abc.gif)
-<html>
-<body>
+<h1 align="center">Hi 👋, I'm Kiran Patil</h1>
+<h3 align="center">Computer Engineering Student 👨‍💻</h3>
 
-<h1 align="center">Hi 👋, I'm Kiran Patil </h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="Coding" width="400"/>
+</p>
 
-<h2 align="center">Computer Engineering Student 👨‍💻 </h2>
+---
 
-<div align="center">
-
-</div>
-<img
-  align="right"
-  alt="Coding"
-  width="400"
-  height="350"
-  src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"
-/>
-
-## About Me
-
+### 🧠 About Me
 - 🌱 I’m currently learning **Node.js and Data Structures**
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/kiran02052004)
+- 📫 How to reach me: **kiranpatil452004@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kiran02052004](https://github.com/kiran02052004)
+---
 
-- 📫 How to reach me **kiranpatil452004@gmail.com**
+### 🧩 Coding Profiles
 
-## **Coding Profiles**:
-
-<p align="left"> 
-    
-  <a href="https://leetcode.com/u/kiranpatil452004/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/> </a>   
-  <a href="https://www.codechef.com/users/kiran_patil02" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/codechef.png"/> </a>    
-  <a href="https://www.hackerrank.com/profile/kiranpatil452004"
-  target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/> </a>   
+<p>
+  <a href="https://leetcode.com/u/kiranpatil452004/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
+  <a href="https://www.codechef.com/users/kiran_patil02"><img src="https://img.icons8.com/fluency/48/codechef.png"/></a>
+  <a href="https://www.hackerrank.com/profile/kiranpatil452004"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-hackerrank-logo-shadow-tal-revivo.png"/></a>
 </p>
 
+---
 
-## Languages and Tools:
+### 💻 Languages and Tools
 
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/javascript--v1.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/html-5--v1.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/css3.png"/> </a>
-    <a href="https://nodejs.org/en/docs" target="_blank"> <img src="https://img.icons8.com/color/48/nodejs.png"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>     
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/visual-studio-code-2019.png"/> </a>
+<p>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/css3.png"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/python.png"/>
+  <img src="https://img.icons8.com/color/48/git.png"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
 </p>
 
-<br/>
+---
 
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiran02052004&" alt="kiran02052004" /></p>
-</div>
-
-
-
-## My Github Statistics
-
-<br/>
-  <a href="https://github.com/kiran02052004/github-readme-stats"><img alt="Kiran Patil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kiran02052004&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/kiran02052004/github-readme-stats"><img align="right" alt="Kiran Patil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiran02052004&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
-## Connect with me:
+### 📈 GitHub Stats
 
 <p align="center">
-  <a href = "https://www.linkedin.com/in/patil-kiran-120952256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "><img src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
-  <a href = "https://www.instagram.com/kiranpatil02?igsh=bTBvZTlnMHh5dHhs"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kiran02052004&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiran02052004&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </p>
 
-## 👀 Views and Followers
+---
+
+### 🔗 Connect With Me
+
 <p align="center">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=kiran02052004">
-</a>
-<a href="https://github.com/kiran02052004?tab=followers"><img src="https://img.shields.io/github/followers/kiran02052004?label=Followers&style=social" alt="GitHub Badge"></a>
+  <a href="https://www.linkedin.com/in/patil-kiran-120952256"><img src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
+  <a href="https://www.instagram.com/kiranpatil02"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
 </p>
-</body>
-</html>
+
+---
+
+### 👀 Views and Followers
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kiran02052004&style=flat-square&color=brightgreen" alt="View Counter"/>
+  <img src="https://img.shields.io/github/followers/kiran02052004?label=Followers&style=social" alt="Followers"/>
+</p>
