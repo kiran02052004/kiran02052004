@@ -66,7 +66,6 @@
 
 ### 👀 Views and Followers
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kiran02052004&style=flat-square&color=brightgreen" alt="View Counter"/>
+<a href="https://github.com/kiran02052004?tab=followers" target="_blank">
   <img src="https://img.shields.io/github/followers/kiran02052004?label=Followers&style=social" alt="Followers"/>
-</p>
+</a>
